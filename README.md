@@ -4,3 +4,4 @@ I'm a SICTC student learning Java, Python, Lua (Love2D), Javascript and website 
 # Projects
 * https://sictccs.github.io/CCF/
 * https://desktoppanda.com/
+* https://discord.gg/scaleworx
